@@ -17,7 +17,8 @@ crons = ["*/1 * * * *", "0 * * * *"]
 directory = "./dist"
 binding = "ASSETS"
 
-[[d1_databases]]database_id= "1fc63932-7a05-41af-bdaf-e4b1d78600de"
+[[d1_databases]]
+database_id= "1fc63932-7a05-41af-bdaf-e4b1d78600de"
 binding = "DB"
 database_name = "server-monitor-db"
 
